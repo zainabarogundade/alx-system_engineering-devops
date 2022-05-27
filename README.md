@@ -1,2 +1,1 @@
-This Readme.md file contains all details of shell basics
-This README.md file contains all scripts usednfor shell permission 
+This README.md file contains scripts of 0x01-shell_permission task
